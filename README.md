@@ -18,7 +18,7 @@ This repository contains beginner-level Electrical Engineering projects built us
 - Input validation
 - OUTPUT:-
 - ![image alt](https://github.com/10fvedanshitrivedi-creator/ee-begineer-python-projects/blob/131b8a21ea1e02ed18ec290c390cbb72a32f24c9/Screenshot_20260522_125340_Chrome.jpg)
-- ![image alt](
+- ![image alt](https://github.com/10fvedanshitrivedi-creator/ee-begineer-python-projects/blob/c15e3d22b9a8d6b301d8981a5449937b3032fa33/Screenshot_20260522_125406_Chrome.jpg)
 - ![image alt](
 
 ### 3. Power Calculator

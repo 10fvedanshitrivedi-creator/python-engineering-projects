@@ -26,7 +26,7 @@ This repository contains beginner-level Electrical Engineering projects built us
 - Menu-driven program
 - Basic electrical formula implementation
 - OUTPUT:-
-- ![image alt](
+- ![image alt](https://github.com/10fvedanshitrivedi-creator/ee-begineer-python-projects/blob/ae3d237425ab04de7d786acd0c90cc4962c80b63/Screenshot_20260522_125738_Chrome.jpg)
 - ![image alt](
 - ![image alt](
 

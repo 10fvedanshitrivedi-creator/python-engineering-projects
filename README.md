@@ -57,7 +57,8 @@ Concepts Used:
 
 ## Tech Used
 - Python
-- Basic Electrical Engineering concepts
+- Engineering problem-solving concepts
+- Basic data handling and logic building
 
 ## Purpose
-To combine Electrical Engineering fundamentals with programming for practical understanding.
+This repository is created to practice Python programming through engineering-oriented projects and improve problem-solving, logical thinking, and software development fundamentals.
